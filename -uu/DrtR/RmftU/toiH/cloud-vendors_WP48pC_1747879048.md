@@ -71,7 +71,6 @@ docker: build
 	docker build backend -t sodafoundation/multi-cloud-backend:latest
 
 	cp $(BUILD_DIR)/file file
-	chmod 755 file/file
 	docker build file -t sodafoundation/multi-cloud-file:latest
 
 	cp $(BUILD_DIR)/block block
