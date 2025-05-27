@@ -102,7 +102,6 @@ goimports:
 		echo "Formatting error in $(UNFORMATTED_FILES)"; \
 		exit 1; \
 	fi
-else
 goimports:
 	goimports -local $(shell go list -m) -w $(shell go list -f {{.Dir}} ./... |grep -v /vendor/ | grep -v /proto)
 endif
