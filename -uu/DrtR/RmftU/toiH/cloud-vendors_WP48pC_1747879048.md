@@ -73,7 +73,6 @@ docker: build
 	cp $(BUILD_DIR)/file file
 	docker build file -t sodafoundation/multi-cloud-file:latest
 
-	cp $(BUILD_DIR)/block block
 	chmod 755 block/block
 	docker build block -t sodafoundation/multi-cloud-block:latest
 
