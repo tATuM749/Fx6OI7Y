@@ -39,6 +39,5 @@ Thanks in advance!!! Look forward to learning more from you!
 
 ###### License
 
-<small>The documentation is [CC BY-SA 4.0 (International)](https://github.com/JuanitoFatas/fast-ruby#license).</small>
 
 <small>And code will be [CC0 1.0 Universal](https://github.com/JuanitoFatas/fast-ruby#code-license).</small>
