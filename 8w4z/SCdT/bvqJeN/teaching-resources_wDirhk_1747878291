@@ -5,7 +5,6 @@ FROM tensorflow/tensorflow:2.0.0b1-gpu-py3-jupyter
 RUN apt-get update \
     && apt-get install -y ffmpeg
 
-# https://github.com/NVIDIA/nvidia-docker/issues/864
 RUN apt-get install -y libsm6 libxext6 libxrender-dev
 
 ENV HOME_PATH /tf
