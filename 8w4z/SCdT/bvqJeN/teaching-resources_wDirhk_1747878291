@@ -3,7 +3,6 @@ FROM tensorflow/tensorflow:2.0.0b1-gpu-py3-jupyter
 # Install ffmpeg
 
 RUN apt-get install -y libsm6 libxext6 libxrender-dev
-
 ENV HOME_PATH /tf
 # Install data-science-learning library
 ENV DS_DIR $HOME_PATH/notebooks/data-science-learning
