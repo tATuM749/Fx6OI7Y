@@ -5,7 +5,6 @@ If you find any typos, errors, or have an better example. Just raise a new issue
 <3
 
 These idioms list here are trying to satisfy following goals:
-
 [![GOALS](/images/Goals.png)](https://speakerdeck.com/sferik/writing-fast-ruby?slide=11)
 ## Note on entry
 
