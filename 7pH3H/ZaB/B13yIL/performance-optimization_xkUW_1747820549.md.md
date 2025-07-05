@@ -33,7 +33,6 @@ $ ruby -v code/your-new/entry.rb
 ```
 
 Thanks in advance!!! Look forward to learning more from you!
-
 <3 [JuanitoFatas](https://twitter.com/juanitofatas)
 
 ###### License
