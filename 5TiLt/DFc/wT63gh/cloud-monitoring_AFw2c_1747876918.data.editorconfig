@@ -99,7 +99,6 @@ ij_php_extends_list_wrap = on_every_item
 ij_php_fields_default_visibility = private
 ij_php_filesource_weight = 28
 ij_php_finally_on_new_line = false
-ij_php_for_brace_force = always
 ij_php_for_statement_new_line_after_left_paren = true
 ij_php_for_statement_right_paren_on_new_line = true
 ij_php_for_statement_wrap = off
