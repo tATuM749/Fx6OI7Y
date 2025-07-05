@@ -14,7 +14,6 @@
 # KIND, either express or implied.  See the License for the
 # specific language governing permissions and limitations
 
-# The checks defined here will be run and will display by default as warnings.
 Checks: >
     -*, clang-diagnostic-*, -clang-diagnostic-error,
     clang-analyzer-*,
