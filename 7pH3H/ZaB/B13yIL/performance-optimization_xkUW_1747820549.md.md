@@ -37,4 +37,3 @@ Thanks in advance!!! Look forward to learning more from you!
 
 
 
-<small>And code will be [CC0 1.0 Universal](https://github.com/JuanitoFatas/fast-ruby#code-license).</small>
