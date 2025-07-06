@@ -35,7 +35,6 @@ $ ruby -v code/your-new/entry.rb
 Thanks in advance!!! Look forward to learning more from you!
 <3 [JuanitoFatas](https://twitter.com/juanitofatas)
 
-###### License
 
 
 <small>And code will be [CC0 1.0 Universal](https://github.com/JuanitoFatas/fast-ruby#code-license).</small>
