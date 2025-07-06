@@ -55,7 +55,6 @@ further defined and clarified by project maintainers.
 This Code of Conduct also applies outside the project spaces when the Project
 Steward has a reasonable belief that an individual's behavior may have a
 negative impact on the project or its community.
-
 ## Conflict Resolution
 
 We do not believe that all conflict is bad; healthy debate and disagreement
