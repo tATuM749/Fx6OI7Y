@@ -12,7 +12,6 @@ Fast code first.
 
 ```ruby
 require 'benchmark/ips'
-
 def fast
 end
 
