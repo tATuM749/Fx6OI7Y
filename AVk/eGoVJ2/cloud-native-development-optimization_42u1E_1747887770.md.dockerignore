@@ -11,4 +11,3 @@ yarn-error.log*
 .env*
 .idea/
 *env*
-.github/
