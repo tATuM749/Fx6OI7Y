@@ -105,7 +105,6 @@ ij_php_for_statement_wrap = off
 ij_php_force_short_declaration_array_style = false
 ij_php_getters_setters_naming_style = camel_case
 ij_php_getters_setters_order_style = getters_first
-ij_php_global_weight = 28
 ij_php_group_use_wrap = on_every_item
 ij_php_if_brace_force = always
 ij_php_if_lparen_on_next_line = false
