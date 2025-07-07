@@ -2,4 +2,3 @@
   "targetPRLabels" : [ "backport" ],
     "^v9.1.0$" : "main",
     "^v(\\d+).(\\d+).\\d+(?:-(?:alpha|beta|rc)\\d+)?$" : "$1.$2"
-}
