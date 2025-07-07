@@ -8,6 +8,5 @@ yarn-error.log*
 .next
 .git
 
-.env*
 .idea/
 *env*
