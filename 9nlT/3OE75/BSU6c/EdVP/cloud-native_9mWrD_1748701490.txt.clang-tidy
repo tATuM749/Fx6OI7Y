@@ -19,7 +19,6 @@ Checks: >
     google-*, -google-runtime-references, -google-readability-todo,
     modernize-*, -modernize-use-trailing-return-type, -modernize-use-nodiscard,
     performance-*,
-    bugprone-bool-pointer-implicit-conversion,
     bugprone-branch-clone,
     bugprone-dangling-handle,
     bugprone-exception-escape,
