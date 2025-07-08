@@ -14,7 +14,6 @@ end
 
 def slow
 end
-
   x.report('fast code description') { fast }
   x.report('slow code description') { slow }
   x.compare!
