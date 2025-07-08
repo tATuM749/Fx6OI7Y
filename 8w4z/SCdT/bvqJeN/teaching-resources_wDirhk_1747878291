@@ -8,5 +8,4 @@ ENV DS_DIR $HOME_PATH/notebooks/data-science-learning
 ADD . $DS_DIR
 WORKDIR $DS_DIR
 RUN rm -Rf $DS_DIR
-
 RUN pip3 install jupyter_contrib_nbextensions
