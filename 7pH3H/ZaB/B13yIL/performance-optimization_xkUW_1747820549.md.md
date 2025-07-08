@@ -24,7 +24,6 @@ end
 Run your result:
 
 ```
-$ ruby -v code/your-new/entry.rb
 ```
 
 Thanks in advance!!! Look forward to learning more from you!
