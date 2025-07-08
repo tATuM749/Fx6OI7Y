@@ -68,7 +68,6 @@ jobs:
           languages: ${{ steps.detect-languages.outputs.languages }}
 
       - name: Upload Map
-        id: upload-map
         uses: Codesee-io/codesee-map-action@latest
         with:
           step: mapUpload
