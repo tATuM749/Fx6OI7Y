@@ -38,7 +38,6 @@ ij_xml_space_around_equals_in_attribute = false
 ij_xml_space_inside_empty_tag = false
 ij_xml_text_wrap = normal
 
-[*.php]
 ij_continuation_indent_size = 4
 ij_php_align_assignments = true
 ij_php_align_class_constants = false
