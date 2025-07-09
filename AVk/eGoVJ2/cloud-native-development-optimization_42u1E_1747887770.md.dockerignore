@@ -3,7 +3,6 @@ logs
 *.log
 pnpm-debug.log*
 yarn-error.log*
-.next
 .git
 
 .idea/
