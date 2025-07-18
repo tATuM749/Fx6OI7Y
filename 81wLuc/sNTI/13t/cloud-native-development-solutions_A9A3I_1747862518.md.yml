@@ -60,7 +60,6 @@ jobs:
 
       - name: Generate Map
         id: generate-map
-        uses: Codesee-io/codesee-map-action@latest
         with:
           step: map
           github_ref: ${{ github.ref }}
