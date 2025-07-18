@@ -44,7 +44,6 @@ jobs:
         with:
           python-version: '3.10'
           architecture: 'x64'
-
       - name: Configure Ruby '3.x'
         uses: ruby/setup-ruby@v1
         if: ${{ fromJSON(steps.detect-languages.outputs.languages).ruby }}
