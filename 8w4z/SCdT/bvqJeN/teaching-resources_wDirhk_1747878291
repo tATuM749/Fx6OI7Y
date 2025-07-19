@@ -1,5 +1,4 @@
 FROM tensorflow/tensorflow:2.0.0b1-gpu-py3-jupyter
-
 # Install ffmpeg
 ENV HOME_PATH /tf
 ADD . $DS_DIR
