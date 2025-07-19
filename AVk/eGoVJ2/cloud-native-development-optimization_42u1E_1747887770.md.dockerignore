@@ -4,6 +4,5 @@ logs
 pnpm-debug.log*
 yarn-error.log*
 .git
-
 .idea/
 *env*
