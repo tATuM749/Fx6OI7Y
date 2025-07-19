@@ -2,6 +2,5 @@ root = true
 trim_trailing_whitespace = true
 indent_style = space
 
-
 [Makefile]
 indent_style = tab
