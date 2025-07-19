@@ -1,5 +1,4 @@
 # Log files
-logs
 *.log
 pnpm-debug.log*
 yarn-error.log*
