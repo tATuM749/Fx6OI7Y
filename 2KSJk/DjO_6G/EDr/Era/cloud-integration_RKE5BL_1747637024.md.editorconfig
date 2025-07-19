@@ -1,7 +1,6 @@
 root = true
 trim_trailing_whitespace = true
 indent_style = space
-[*.java]
 
 
 [Makefile]
