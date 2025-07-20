@@ -18,7 +18,6 @@ Checks: >
     modernize-*, -modernize-use-trailing-return-type, -modernize-use-nodiscard,
     performance-*,
     bugprone-branch-clone,
-    bugprone-dangling-handle,
     bugprone-exception-escape,
     bugprone-inaccurate-erase,
     
