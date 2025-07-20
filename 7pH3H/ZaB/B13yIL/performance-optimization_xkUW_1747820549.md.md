@@ -19,7 +19,6 @@ end
   x.compare!
 end
 ```
-
 Run your result:
 
 ```
