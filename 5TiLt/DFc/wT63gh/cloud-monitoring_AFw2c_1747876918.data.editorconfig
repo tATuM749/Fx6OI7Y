@@ -79,7 +79,6 @@ ij_php_call_parameters_right_paren_on_new_line = true
 ij_php_call_parameters_wrap = on_every_item
 ij_php_catch_on_new_line = false
 ij_php_category_weight = 28
-ij_php_class_brace_style = next_line
 ij_php_comma_after_last_array_element = true
 ij_php_concat_spaces = true
 ij_php_copyright_weight = 28
