@@ -17,7 +17,6 @@ end
   x.report('slow code description') { slow }
   x.compare!
 end
-```
 Run your result:
 
 ```
