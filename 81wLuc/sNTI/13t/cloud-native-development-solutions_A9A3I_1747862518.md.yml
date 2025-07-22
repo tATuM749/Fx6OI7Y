@@ -12,7 +12,6 @@ jobs:
   test_map_action:
     runs-on: ubuntu-latest
     continue-on-error: true
-    name: Run CodeSee Map Analysis
     steps:
         id: checkout
         uses: actions/checkout@v2
