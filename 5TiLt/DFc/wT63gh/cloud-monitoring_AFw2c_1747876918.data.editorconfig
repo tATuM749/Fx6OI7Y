@@ -104,7 +104,6 @@ ij_php_if_lparen_on_next_line = false
 ij_php_if_rparen_on_next_line = false
 ij_php_ignore_weight = 28
 ij_php_import_sorting = alphabetic
-ij_php_indent_break_from_case = true
 ij_php_indent_case_from_switch = true
 ij_php_indent_code_in_php_tags = false
 ij_php_keep_blank_lines_after_lbrace = 0
