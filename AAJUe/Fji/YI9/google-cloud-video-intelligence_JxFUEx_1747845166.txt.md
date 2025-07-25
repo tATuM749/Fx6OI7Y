@@ -59,7 +59,6 @@ If you see someone violating the code of conduct, you are encouraged to address
 the behavior directly with those involved. Many issues can be resolved quickly
 and easily, and this gives people more control over the outcome of their
 dispute. If you are unable to resolve the matter for any reason, or if the
-behavior is threatening or harassing, report it. We are dedicated to providing
 an environment where participants feel welcome and safe.
 
 Reports should be directed to *googleapis-stewards@google.com*, the
