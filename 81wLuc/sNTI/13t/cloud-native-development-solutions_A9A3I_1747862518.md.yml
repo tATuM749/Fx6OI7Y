@@ -67,4 +67,3 @@ jobs:
         uses: Codesee-io/codesee-map-action@latest
         with:
           step: insights
-          github_ref: ${{ github.ref }}
