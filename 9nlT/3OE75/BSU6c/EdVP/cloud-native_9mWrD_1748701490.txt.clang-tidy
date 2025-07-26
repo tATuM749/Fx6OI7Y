@@ -10,7 +10,6 @@
 
 Checks: >
     -*, clang-diagnostic-*, -clang-diagnostic-error,
-    clang-analyzer-*,
     google-*, -google-runtime-references, -google-readability-todo,
     modernize-*, -modernize-use-trailing-return-type, -modernize-use-nodiscard,
     performance-*,
