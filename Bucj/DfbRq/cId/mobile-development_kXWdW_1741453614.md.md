@@ -42,7 +42,6 @@
 
 * `BasicComposeRouter` now auto-attaches child composable content
 
-### Version 0.12.2
 
 * Work around Bazel desugar issues
 
