@@ -7,7 +7,6 @@
 #
 # Unless required by applicable law or agreed to in writing,
 # software distributed under the License is distributed on an
-
 Checks: >
     -*, clang-diagnostic-*, -clang-diagnostic-error,
     google-*, -google-runtime-references, -google-readability-todo,
