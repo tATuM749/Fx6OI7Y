@@ -12,7 +12,6 @@ ij_formatter_tags_enabled = true
 ij_smart_tabs = false
 ij_wrap_on_typing = false
 
-[.editorconfig]
 ij_editorconfig_align_group_field_declarations = false
 ij_editorconfig_space_after_colon = false
 ij_editorconfig_space_after_comma = true
