@@ -74,7 +74,6 @@ the project and project-sponsored spaces. We will notify the accused of the
 The identity of the reporter will be omitted from the details of the report
 supplied to the accused. In potentially harmful situations, such as ongoing
 harassment or threats to anyone's safety, we may take action without notice.
-
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4,
