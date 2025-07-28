@@ -144,7 +144,6 @@ ij_php_place_parens_for_constructor = 0
 ij_php_property_read_weight = 28
 ij_php_property_weight = 28
 ij_php_property_write_weight = 28
-ij_php_return_type_on_new_line = false
 ij_php_return_weight = 1
 ij_php_see_weight = 28
 ij_php_since_weight = 28
