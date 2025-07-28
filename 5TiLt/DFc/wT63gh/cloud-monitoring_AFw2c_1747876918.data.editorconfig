@@ -164,7 +164,6 @@ ij_php_space_before_do_left_brace = true
 ij_php_space_before_else_keyword = true
 ij_php_space_before_else_left_brace = true
 ij_php_space_before_finally_keyword = true
-ij_php_space_before_finally_left_brace = true
 ij_php_space_before_for_left_brace = true
 ij_php_space_before_for_parentheses = true
 ij_php_space_before_for_semicolon = false
