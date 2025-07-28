@@ -78,7 +78,6 @@
 * [Android] Enable strict explicit API mode on rib-base
 * [Android] Introduce RibCoroutineWorker  AndroidAndroid related tickets
 * [Android] Replacing some Behavior/Publish Relay usage in core artifacts with coroutines
-
 ### Version 0.14.1
 * [Android] Open lifecycleFlow, thus enabling it for mocking 
 * [Android] [WorkerBinder] Guard against potential Worker.coroutineContext being null while using Mockito
