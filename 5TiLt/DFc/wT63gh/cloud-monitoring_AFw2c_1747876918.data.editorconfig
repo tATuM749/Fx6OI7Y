@@ -194,7 +194,6 @@ ij_php_spaces_around_var_within_brackets = false
 ij_php_spaces_within_brackets = false
 ij_php_spaces_within_catch_parentheses = false
 ij_php_spaces_within_for_parentheses = false
-ij_php_spaces_within_if_parentheses = false
 ij_php_spaces_within_method_call_parentheses = false
 ij_php_spaces_within_method_parentheses = false
 ij_php_spaces_within_parentheses = false
