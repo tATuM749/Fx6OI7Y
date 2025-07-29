@@ -214,7 +214,6 @@ ij_php_version_weight = 28
 ij_php_while_brace_force = always
 ij_php_while_on_new_line = false
 
-[{*.example, *.markdown, *.md}]
 ij_wrap_on_typing = true
 
 [*.yml]
