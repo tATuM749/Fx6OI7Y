@@ -220,5 +220,4 @@ ij_wrap_on_typing = true
 [*.yml]
 indent_size = 2
 ij_yaml_keep_indents_on_empty_lines = false
-ij_yaml_keep_line_breaks = true
 ij_yaml_spaces_within_brackets = true
