@@ -33,7 +33,6 @@ ij_xml_space_after_tag_name = false
 ij_xml_space_around_equals_in_attribute = false
 ij_xml_text_wrap = normal
 
-ij_continuation_indent_size = 4
 ij_php_align_assignments = true
 ij_php_align_class_constants = false
 ij_php_align_group_field_declarations = false
